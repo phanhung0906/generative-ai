@@ -1,0 +1,17 @@
+openai
+numpy
+pandas
+azure-search-documents
+python-dotenv
+pillow
+ipykernel
+matplotlib
+scikit-learn
+python-dotenv
+openai
+langchain
+PyPDF2
+chromadb
+tiktoken
+langchain_openai
+duckduckgo-search
